@@ -5,4 +5,4 @@ Today I revised the maths behind linear and logistic regression, foundation algo
 * Gradient Descent
 * Matrix Dot product
 
-I also got to write some code to implement these - _check out the PTD 1.ipynb_
+I also got to write some code to implement these - _check it out in PTD 1.ipynb_
