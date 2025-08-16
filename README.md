@@ -1,6 +1,8 @@
 # Learning PyTorch
 This is a daily journal of my begineer's journey into PyTorch and Deep Neural Networks. Have a good read!
+
 PTD #- PyTorch Day #
+
 ## Day 1
 Didn't dive into PyTorch qute yet
 Today I revised the maths behind linear and logistic regression, foundation algorithms for neural networks:
